@@ -1,0 +1,16 @@
+.pink-bg{
+    background-color: #ffb6c1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#blue-content{
+    color:blue;
+    font-size: 36px;
+}
+.third-el{
+    font-size: 24px;
+}
+#green-bg{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
