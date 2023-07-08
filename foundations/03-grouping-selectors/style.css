@@ -1,0 +1,11 @@
+#click-content{
+    background: black;
+    color:white;
+}
+#noClick-content{
+    background-color: yellow;
+}
+.content-fonts{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
